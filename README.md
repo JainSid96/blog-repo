@@ -9,4 +9,5 @@
 |451|[ Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Java](./solutions/451.%20Sort%20Characters%20By%20Frequency.java)|6 ms|
 |841|[ Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Java](./solutions/841.%20Keys%20and%20Rooms.java)|0 ms|
 |997|[ Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Java](./solutions/997.%20Find%20the%20Town%20Judge.java)|2 ms|
+|1636|[ Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)|[Java](./solutions/1636.%20Sort%20Array%20by%20Increasing%20Frequency.java)|5 ms|
 |2063|[ Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/)|[Java](./solutions/2063.%20Vowels%20of%20All%20Substrings.java)|11 ms|
