@@ -13,7 +13,7 @@ class Solution {
                 wordCount.put(word, wordCount.getOrDefault(word, 0) + 1);
             }
         }
-        System.out.println(wordCount);
+        //System.out.println(wordCount);
 ​
         String result = "";
         for(String word: wordCount.keySet()) {
