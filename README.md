@@ -13,6 +13,7 @@
 |162|[ Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](./solutions/162.%20Find%20Peak%20Element.java)|0 ms|
 |212|[ Word Search II](https://leetcode.com/problems/word-search-ii/)|[Java](./solutions/212.%20Word%20Search%20II.java)|1443 ms|
 |215|[ Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Java](./solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.java)|4 ms|
+|290|[ Word Pattern](https://leetcode.com/problems/word-pattern/)|[Java](./solutions/290.%20Word%20Pattern.java)|1 ms|
 |347|[ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./solutions/347.%20Top%20K%20Frequent%20Elements.java)|9 ms|
 |409|[ Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Java](./solutions/409.%20Longest%20Palindrome.java)|3 ms|
 |451|[ Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Java](./solutions/451.%20Sort%20Characters%20By%20Frequency.java)|6 ms|
